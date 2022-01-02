@@ -1,0 +1,6 @@
+[
+    { "name": "HTML", "link": "/html/" },
+    { "name": "CSS", "link": "/css/" },
+    { "name": "JavaScript", "link": "/js/" },
+    { "name": "Python", "link": "/python/" }
+]
